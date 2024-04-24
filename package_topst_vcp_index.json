@@ -16,8 +16,6 @@
           "category": "Contributed",
           "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/heads/main.zip",
           "archiveFileName": "main.zip",
-          "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
-          "size": "38496810",
           "boards": [
             {
               "name": "TOPST VCP"
