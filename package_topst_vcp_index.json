@@ -18,7 +18,7 @@
           "archiveFileName": "main.zip",
           "boards": [
             {
-              "name": "TOPST VCP"
+              "name": "VCP"
             },
             {
               "name": "TOPST VCP(Pre-released boards)"
