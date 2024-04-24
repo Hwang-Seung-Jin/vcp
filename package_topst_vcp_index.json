@@ -3,14 +3,14 @@
     {
       "name": "TOPST",
       "websiteURL": "https://github.com/topst-vcp",
-      "maintainer": "HUCONN",
+      "maintainer": "HUCONN HSJ",
       "email": "huconn@huconn.com",
       "help": {
         "online": "http://topst.ai/"
       },
       "platforms": [
         {
-          "name": "TOPST VCP boards",
+          "name": "VCP boards",
           "architecture": "VCP",
           "version": "1.0.0",
           "category": "Contributed",
