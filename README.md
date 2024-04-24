@@ -13,7 +13,7 @@ File -> Preferences -> Additional Boards Manager URLs
 ```
 add the following URL:
 ```
-https://raw.githubusercontent.com/topst-vcp/ArduinoCore-VCP/master/package_topst_vcp_index.json
+https://raw.githubusercontent.com/Hwang-Seung-Jin/vcp/main/package_topst_vcp_index.json
 ```
 ```
 Tools -> Board -> Boards Manager
