@@ -14,8 +14,8 @@
           "architecture": "VCP",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/tags/vcp.zip",
-          "archiveFileName": "vcp.zip",
+          "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/tags/vcp-vcp.zip",
+          "archiveFileName": "vcp-vcp.zip",
           "boards": [
             {"name": "VCP"},
             {"name": "TOPST VCP(Pre-released boards)"}
