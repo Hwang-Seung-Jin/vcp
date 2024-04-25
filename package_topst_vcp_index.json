@@ -12,7 +12,7 @@
         {
           "name": "VCP boards",
           "architecture": "VCP",
-          "version": "1.0.0",
+          "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/tags/vcp-vcp.zip",
           "archiveFileName": "vcp-vcp.zip",
