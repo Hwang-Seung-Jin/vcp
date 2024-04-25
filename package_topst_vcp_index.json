@@ -2,8 +2,8 @@
   "packages": [
     {
       "name": "vcp",
-      "websiteURL": "https://github.com/Hwang-Seung-Jin/vcp",
       "maintainer": "HUCONN HSJ",
+      "websiteURL": "https://github.com/Hwang-Seung-Jin/vcp",
       "email": "huconn@huconn.com",
       "help": {
         "online": "http://topst.ai/"
@@ -14,15 +14,11 @@
           "architecture": "VCP",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/heads/main.zip",
-          "archiveFileName": "main.zip",
+          "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/tags/vcp.zip",
+          "archiveFileName": "vcp.zip",
           "boards": [
-            {
-              "name": "VCP"
-            },
-            {
-              "name": "TOPST VCP(Pre-released boards)"
-            }
+            {"name": "VCP"},
+            {"name": "TOPST VCP(Pre-released boards)"}
           ],
           "toolsDependencies": [
             {
