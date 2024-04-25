@@ -5,7 +5,7 @@
 # https://arduino.github.io/arduino-cli/latest/platform-specification/
 
 name=TOPST VCP Arduino
-version=1.0.0
+version=0.0.1
 
 compiler.extra_include="-I{build.source.path}" "-I{build.core.path}/tcc70xx"
 
