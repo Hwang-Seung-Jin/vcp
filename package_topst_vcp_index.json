@@ -14,8 +14,8 @@
           "architecture": "VCP",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/tags/vcp-vcp.zip",
-          "archiveFileName": "vcp-vcp.zip",
+          "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/tags/vcp.zip",
+          "archiveFileName": "vcp.zip",
           "checksum": "SHA-256:9069b5a91626318ceb752fb24b5f23599a8ae76c304845f38277df2997f3fec7",
           "size": "375882"
           "boards": [
