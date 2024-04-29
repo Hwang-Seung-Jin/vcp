@@ -10,24 +10,29 @@
       },
       "platforms": [
         {
-          "name": "VCP boards",
-          "architecture": "VCP",
-          "version": "0.0.1",
+          "name": "TOPST VCP boards",
+          "architecture": "vcp",
+          "version": "0.4.0",
           "category": "Contributed",
-          "url": "https://github.com/Hwang-Seung-Jin/vcp/archive/refs/tags/vcp.zip",
-          "archiveFileName": "vcp.zip",
-          "checksum": "SHA-256:9069b5a91626318ceb752fb24b5f23599a8ae76c304845f38277df2997f3fec7",
-          "size": "375882",
+          "url": "https://github.com/topst-vcp/topst-vcp-arduino-core/releases/download/v0.4/release-files.tar.bz2",
+          "archiveFileName": "release-files.tar.bz2",
+          "checksum": "SHA-256:30d235e4b4111ccf7a59a9cde7662cab7da681ab38158eee5a20736c95da427f",
+          "size": "242147",
           "boards": [
-            {"name": "VCP"},
-            {"name": "TOPST VCP(Pre-released boards)"}
+            {
+              "name": "TOPST VCP"
+            }
           ],
           "toolsDependencies": [
             {
-              "packager": "TOPST",
+              "packager": "topst",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "10.2.1-1.1"
-            }
+            },
+            {
+              "packager": "topst",
+              "name": "vcp-tools",
+              "version": "0.2"}
           ]
         }
       ],
