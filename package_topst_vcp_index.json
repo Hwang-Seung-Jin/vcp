@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "vcp",
-      "maintainer": "HUCONN HSJ",
+      "name": "topst",
       "websiteURL": "https://github.com/topst-vcp",
+      "maintainer": "HUCONN",
       "email": "huconn@huconn.com",
       "help": {
         "online": "http://topst.ai/"
